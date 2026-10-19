@@ -16,7 +16,7 @@ Sou **estudante de Ciência da Computação no CIn-UFPE**, atualmente focado em 
 
 ### Engenharia de Software
 
-**Foco em backend:** Java, Spring Boot, APIs e arquitetura de software.
+**Foco em backend:** Java, Spring Boot, APIs e arquitetura de software.  
 **Experiência prática:** TypeScript, Next.js, React, PostgreSQL.
 
 ---
