@@ -1,36 +1,26 @@
-# Olá, me chamo Leonardo 👋
+# Leonardo Malta
 
-<p align="right">
-  <a href="README.md">English</a> | <b>Português</b>
-</p>
+**Programação Competitiva · Estruturas de Dados e Algoritmos** **· Engenharia Backend**
 
-## 🎓 Sobre mim
+Estudante de Ciência da Computação @ CIn-UFPE
 
-Estudante de Ciência da Computação no **CIn - UFPE** | Aspirante a Engenheiro de Software
-
-Sou apaixonado por construir soluções escaláveis e resolver problemas complexos. Atualmente, estou em transição do desenvolvimento fullstack para **backend** e **programação competitiva**.
-
-## 💻 Stack Tecnológica
-
-**Atual:**
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js
-
-**Aprendendo & Explorando:**
-- Estruturas de Dados & Algoritmos
-- Programação Competitiva (C++)
-- Desenvolvimento Backend (Java)
-
-## 🚀 No que estou focado
-
-- 🏆 Treinamento para competições de programação (ICPC)
-- 📚 Aprofundamento em algoritmos e design de sistemas
-- 🔨 Construção de aplicações fullstack prontas para produção
-
-## 📫 Vamos conectar!
-
-- LinkedIn: www.linkedin.com/in/leonardomaltta
+[Codeforces](https://codeforces.com/profile/maltta900) · [LinkedIn](https://www.linkedin.com/in/leonardomaltta/)
 
 ---
 
-💡 *"A única forma de fazer um grande trabalho é amar o que você faz"* — Steve Jobs
+### Sobre mim
+
+Sou **estudante de Ciência da Computação no CIn-UFPE**, atualmente focado em **programação competitiva** e **engenharia backend**.
+
+#### Codeforces
+
+[![Estatísticas do Codeforces](https://codeforces-stats-vlx.vercel.app/api/card?username=maltta900&theme=dark)](https://codeforces.com/profile/maltta900)
+
+### Engenharia de Software
+
+**Foco em backend:** Java, APIs e arquitetura de software  
+**Experiência prática:** TypeScript, Next.js, React, PostgreSQL.
+
+---
+
+*Sempre aprendendo. Sempre resolvendo problemas.*
