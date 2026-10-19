@@ -2,8 +2,6 @@
 
 **Programação Competitiva · Estruturas de Dados e Algoritmos** **· Engenharia Backend**
 
-Estudante de Ciência da Computação @ CIn-UFPE
-
 [Codeforces](https://codeforces.com/profile/maltta900) · [LinkedIn](https://www.linkedin.com/in/leonardomaltta/)
 
 ---
