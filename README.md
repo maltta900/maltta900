@@ -23,4 +23,4 @@ I'm a **Computer Science student at CIn-UFPE**, currently focused on **competiti
 
 ---
 
-*Always learning. Always solving.*
+*There's always more to learn.*
