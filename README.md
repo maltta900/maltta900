@@ -18,7 +18,7 @@ I'm a **Computer Science student at CIn-UFPE**, currently focused on **competiti
 
 ### Software Engineering
 
-**Backend direction:** Java, APIs, and software architecture  
+**Backend:** Java, Spring Boot, APIs, and software architecture. 
 **Hands-on experience:** TypeScript, Next.js, React, PostgreSQL.
 
 ---
