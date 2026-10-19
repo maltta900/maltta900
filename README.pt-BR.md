@@ -23,4 +23,4 @@ Sou **estudante de Ciência da Computação no CIn-UFPE**, atualmente focado em 
 
 ---
 
-*Sempre aprendendo. Sempre resolvendo problemas.*
+*Sempre há mais a aprender.*
