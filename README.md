@@ -2,8 +2,6 @@
 
 **Competitive Programming · DSA** **· Backend Engineering**
 
-Computer Science Student @ CIn-UFPE
-
 [Codeforces](https://codeforces.com/profile/maltta900) · [LinkedIn](https://www.linkedin.com/in/leonardomaltta/)
 
 ---
